@@ -21,7 +21,7 @@ end
 
 class Person
 
-  def person=(name)
+  def name=(name)
     @name = name
   end
 
